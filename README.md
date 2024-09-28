@@ -1,4 +1,4 @@
-  ------------------------------------------------------------------------------------**ShopSense**-----------------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------**ShopSense**-----------------------------------------------------------------------------
 
   
 **Sustainable Ai Plateform "ShopSense" For Enhancing Transparency and Trust in Consumer Goods**
@@ -13,4 +13,4 @@ here is the prototype of the output the plateform currently produces upon users 
 BISCUIT  as a product for testing.
 ![ShopSenseOutput](https://github.com/user-attachments/assets/cb66688c-ecd0-41d7-b50a-037656564e4e)
 
-To Test the project one must have to provide Api Key from Google
+NOTE:  **To Test the project one must have to provide Api Key from Google**
