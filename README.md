@@ -12,3 +12,5 @@ image recognition, promoting healthier, more sustainable consumer behavior.
 here is the prototype of the output the plateform currently produces upon users input. currently I’ve used one of the most popular biscuit brand BRITANIA GOOD DAY
 BISCUIT  as a product for testing.
 ![ShopSenseOutput](https://github.com/user-attachments/assets/cb66688c-ecd0-41d7-b50a-037656564e4e)
+
+To Test the project one must have to provide Api Key from Google
