@@ -1,4 +1,4 @@
-  -----------------------------------------------**ShopSense**-----------------------------------
+                                                      ShopSense
 
   
 **Sustainable Ai Plateform "ShopSense" For Enhancing Transparency and Trust in Consumer Goods**
