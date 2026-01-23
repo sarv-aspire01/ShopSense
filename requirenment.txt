@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-google-genai
+gradio
+numpy
+pandas
+matplotlib
+python-dotenv
+seaborn 
+plotly
+
