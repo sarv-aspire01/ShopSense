@@ -1,6 +1,6 @@
                                                       ShopSense
 
-**ShopSense by Sarvesh Pandey**
+**ShopSense by Sarv-aspire01**
 
 **Sustainable Ai Plateform "ShopSense" For Enhancing Transparency and Trust in Consumer Goods**
 
